@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\zimbabwe_company_directories_web.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\zimbabwe_company_directories_web_20251202_115807.csv">
           <value>
             <Attribute>
